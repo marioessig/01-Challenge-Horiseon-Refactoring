@@ -36,6 +36,6 @@ I was able to consolidate the existing CSS file from 200 lines to 141 lines as w
 ![Refactored Website](https://github.com/vsxrmv/01-Challenge-Horiseon-Refactoring/blob/master/Develop/assets/images/Horiseon_Website.png)
 
 ### Links:
-[Deployed Application URL](https://vsxrmv.github.io/01-Challenge-Horiseon-Refactoring)
+[Deployed Application URL](https://vsxrmv.github.io/01-Challenge-Horiseon-Refactoring/)
 
 [GitHub Repository URL](https://github.com/vsxrmv/01-Challenge-Horiseon-Refactoring)
